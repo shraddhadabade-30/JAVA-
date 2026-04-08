@@ -1,0 +1,22 @@
+Java is a powerful programming language used in many real world applications 
+Multithreading helps improve performance by executing multiple tasks 
+concurrently File handling is an important concept in backend development and 
+data processing Students should practice writing efficient and clean code for 
+better understanding Concurrency is widely used in systems like web servers 
+and data pipelines Learning core Java concepts builds a strong foundation for 
+advanced programming Threads can run independently and share resources 
+carefully using synchronization Large scale systems depend on optimized code 
+and proper resource management Error handling and logging are critical parts of 
+any production level application Understanding how memory and CPU work 
+helps in writing better programs 
+C-DAC Mumbai
+This is a second paragraph to increase the size of the file and simulate real data 
+Each line can be processed by different threads to improve performance 
+Breaking the problem into smaller parts is a key idea in parallel computing Java 
+provides multiple ways to implement multithreading like Runnable and Thread 
+Executor framework is commonly used in industry for managing thread pools 
+Synchronization ensures that shared data remains consistent across threads 
+Race conditions can occur if multiple threads modify shared data incorrectly 
+Proper design is required to avoid deadlocks and performance bottlenecks 
+Testing multithreaded applications is more complex than single threaded ones 
+Practice is the best way to master multithreading concepts in Java 

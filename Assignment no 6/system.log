@@ -1,0 +1,15 @@
+INFO Server started successfully 
+INFO User1 logged in 
+WARNING Disk space running low 
+ERROR Database connection failed 
+INFO Request received from User2 
+ERROR Null pointer exception in module X 
+INFO User3 logged out 
+WARNING High memory usage detected 
+ERROR Payment processing failed 
+INFO Backup completed successfully 
+ERROR Timeout while connecting to API 
+INFO User4 logged in 
+WARNING CPU usage high 
+ERROR File not found exception 
+INFO System shutting down

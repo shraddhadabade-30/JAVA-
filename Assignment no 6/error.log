@@ -1,0 +1,5 @@
+ERROR Database connection failed 
+ERROR Null pointer exception in module X 
+ERROR Payment processing failed 
+ERROR Timeout while connecting to API 
+ERROR File not found exception 
